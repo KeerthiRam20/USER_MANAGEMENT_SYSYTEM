@@ -40,7 +40,7 @@ public class UserManagementSysytemApplication {
 				user.setName("Keerthi");
 				user.setUsername("keerthiram");
 				user.setEmail("keerthiram2000@gmail.com");
-				user.setPhone("9110480748");
+				user.setPhone("911xxxx748");
 				user.setWebsite("https://jsonplaceholder.typicode.com/");
 				mapper.writeValue(new File("C:\\STS\\USER_MANAGEMENT_SYSYTEM\\src\\main\\resources\\json\\writinguser.json"), user);
 				inputStream.close();
